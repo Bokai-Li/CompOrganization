@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PS1="\w % " PATH="/home/montek/comp411/bin:$PATH" /bin/bash --norc -i +o noclobber
